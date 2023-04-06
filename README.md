@@ -1,2 +1,21 @@
-# settle
-A parser for two-line (and possibly three-line) element sets.
+# Settle
+
+**TODO: Add description**
+
+## Installation
+
+If [available in Hex](https://hex.pm/docs/publish), the package can be installed
+by adding `settle` to your list of dependencies in `mix.exs`:
+
+```elixir
+def deps do
+  [
+    {:settle, "~> 0.1.0"}
+  ]
+end
+```
+
+Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
+and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
+be found at <https://hexdocs.pm/settle>.
+
