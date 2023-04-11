@@ -3,16 +3,6 @@ defmodule Settle do
   Documentation for `Settle`.
   """
 
-  @doc """
-  Hello world.
-
-  ## Examples
-
-      iex> Settle.hello()
-      :world
-
-  """
-  def hello do
-    :world
-  end
+  import NimbleParsec
+  import Settle.Parser
 end
